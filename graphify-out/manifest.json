@@ -1,0 +1,32 @@
+{
+  "config/database.json": {
+    "mtime": 1791474289.7491632,
+    "seen": 1791474482.1144967,
+    "ast_hash": "a34f487f92ed13c370d68a342776836d",
+    "semantic_hash": ""
+  },
+  ".agents/rules/autonomous-execution.md": {
+    "mtime": 1791474466.5076675,
+    "seen": 1791474482.1145036,
+    "ast_hash": "dcbd84bba96f02823868c624b9a06d6c",
+    "semantic_hash": ""
+  },
+  "BRANCHING_WORKFLOW.md": {
+    "mtime": 1791474301.6248388,
+    "seen": 1791474482.114507,
+    "ast_hash": "12350ba8320cf28c40ecc7da28154be0",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1791474306.4786959,
+    "seen": 1791474482.1145096,
+    "ast_hash": "469db0a3fa3d7c6315a80e7179c0701c",
+    "semantic_hash": ""
+  },
+  "logo/alablogo.jpg": {
+    "mtime": 1791473070.7691185,
+    "seen": 1791474482.1145117,
+    "ast_hash": "4da7d0505447ea2eaf95e89dd26e6413",
+    "semantic_hash": ""
+  }
+}
