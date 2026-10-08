@@ -28,5 +28,11 @@
     "seen": 1791474482.1145117,
     "ast_hash": "4da7d0505447ea2eaf95e89dd26e6413",
     "semantic_hash": ""
+  },
+  ".agents/skills/apple-design/SKILL.md": {
+    "mtime": 1791475422.5664937,
+    "seen": 1791475445.017598,
+    "ast_hash": "b1764057acdcb465bb54ad1c6e326bbe",
+    "semantic_hash": ""
   }
 }

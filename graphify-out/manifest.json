@@ -34,5 +34,23 @@
     "seen": 1791475445.017598,
     "ast_hash": "b1764057acdcb465bb54ad1c6e326bbe",
     "semantic_hash": ""
+  },
+  ".agents/rules/alab-architecture.md": {
+    "mtime": 1791476502.3426206,
+    "seen": 1791476520.211438,
+    "ast_hash": "d398fdc9a3908b229747e8673d43cf1f",
+    "semantic_hash": ""
+  },
+  "docs/ALAB_Movement_System_Blueprint.md": {
+    "mtime": 1791476343.102725,
+    "seen": 1791476520.2114558,
+    "ast_hash": "70803da7b66453bc70b3bd9b7fb61b9a",
+    "semantic_hash": ""
+  },
+  "docs/ROADMAP_PROGRESS.md": {
+    "mtime": 1791476512.5340717,
+    "seen": 1791476520.2114582,
+    "ast_hash": "283d0c7b40442dcb981e15d037e39e03",
+    "semantic_hash": ""
   }
 }
