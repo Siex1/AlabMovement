@@ -1,0 +1,30 @@
+{
+  "testing": {
+    "dialect": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "database": "alabmovement_testing",
+    "username": "test_user",
+    "password": "test_password",
+    "ssl": false,
+    "pool": {
+      "min": 1,
+      "max": 5
+    },
+    "logging": true
+  },
+  "production": {
+    "dialect": "postgres",
+    "host": "db.prod.alabmovement.com",
+    "port": 5432,
+    "database": "alabmovement_production",
+    "username": "alab_prod_admin",
+    "password": "production_secure_strong_password",
+    "ssl": true,
+    "pool": {
+      "min": 5,
+      "max": 20
+    },
+    "logging": false
+  }
+}

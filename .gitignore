@@ -1,0 +1,39 @@
+# Environment variables (keep actual secret keys out of version control)
+.env
+.env.local
+*.env.local
+
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# Dependencies & Build Artefacts
+node_modules/
+dist/
+build/
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Graphify temporary caches
+graphify-out/cache/
+.graphify_detect.json
+.graphify_ast.json
+.graphify_cached.json
+.graphify_uncached.txt
+.graphify_semantic.json
+.graphify_extract.json
